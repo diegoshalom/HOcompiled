@@ -1,0 +1,6 @@
+#Para compilar: 
+`make executable`
+
+#Para ejecutar:
+`./f-main.e`
+

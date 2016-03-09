@@ -1,0 +1,17 @@
+2. ¿Qué agregó el preprocesador?
+3. Identificar en la rutina de assembler las funciones
+4. Explicar qué quieren decir los símbolos que se crean en el objeto
+5. ¿En qué se diferencian los símbolos del objeto y del ejecutable?
+
+
+#1. Escriban qué esperan de cada uno de los pasos
+##Pre-procesador
+Reemplaza `#include` y `#define` por los headers y valores definidos.
+
+##Compilación I
+Traduce el código C en código Assembler (aun legible por humanos)
+
+##Compilación II
+Traduce el código Assembler en lenguaje de máquina (ilegible por humanos). Lo miramos con `nm`
+
+##Linkeo
